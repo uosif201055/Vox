@@ -1,2 +1,2 @@
-# Falo
-the game falo's packages
+# Vixel
+the game vixel's packages
